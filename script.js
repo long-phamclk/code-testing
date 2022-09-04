@@ -1,13 +1,6 @@
-var personName;
-console.log('My name is');
+var a = 5;
 
-var pets;
-console.log('I have');
-console.log('pet');
-
-var funFact;
-console.log('Fun fact:');
-
-personName = 'Long';
-pets = '2';
-funFact = 'lala';
+while (a<10) {
+    
+    document.write("Hello world!")
+}
